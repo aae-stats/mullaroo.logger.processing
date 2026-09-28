@@ -1,6 +1,7 @@
 /local_vars.py
 /mullaroo_logger_processing.psproj
 /archive/
+/.gitignore
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
