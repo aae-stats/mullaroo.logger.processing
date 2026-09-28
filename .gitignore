@@ -2,6 +2,7 @@
 /mullaroo_logger_processing.psproj
 /archive/
 /.gitignore
+/.Rhistory
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
